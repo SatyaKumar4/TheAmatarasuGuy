@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAmatarasuGuy
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
